@@ -6,10 +6,11 @@
 - 📫 How to reach me: [📧](mailto:marina.mam.riad@gmail.com)
 
 ##  🎉 Skills  🎉
-- **iOS Technologies**: UIKIT, SwiftUI, Swift, Objective-C, CoreData, 
+- **iOS Technologies**: UIKIT, SwiftUI, Swift, Objective-C, CoreData, CoreGraphics and CoreAnimations
+- **Packages**: CocoaPods and Swift Packages
 - **FrontEnd**: HTML, CSS, JavaScript
 - **Web Technologies**: .Net
-- **BackEnd**:  Vapor
+- **BackEnd**:  Firebase, JSON, Vapor
 - **Databases**: SQL
 - **Architectures**: MVC, MVVM, VIPER
 - **Languages**: swift, C#, Python, JavaScript, Java

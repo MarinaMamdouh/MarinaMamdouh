@@ -13,4 +13,5 @@
 - **BackEnd**:  Firebase, JSON, Vapor
 - **Databases**: SQL
 - **Architectures**: MVC, MVVM, VIPER
+- **Testing**: Unit Testing, TDD
 - **Languages**: Swift, C#, Python, JavaScript, Java, Objective-C

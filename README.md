@@ -13,4 +13,4 @@
 - **BackEnd**:  Firebase, JSON, Vapor
 - **Databases**: SQL
 - **Architectures**: MVC, MVVM, VIPER
-- **Languages**: swift, C#, Python, JavaScript, Java
+- **Languages**: Swift, C#, Python, JavaScript, Java, Objective-C

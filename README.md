@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [SpringCard](https://www.springcardsystems.com) digital wallet iOS App
-- 🌱 I’m currently learning SwiftUI, Python and Angular
+- 🔭 I’m currently working on [YASSIR Express App](https://express.yassir.io) food delivery iOS App
+- 🌱 I’m currently learning SwiftUI, Combine and Softwre Architecture
 - 👯 Solving LeetCode challenges of Data structure & Algorithms.
 - 📫 How to reach me: [📧](mailto:marina.mam.riad@gmail.com)
 
